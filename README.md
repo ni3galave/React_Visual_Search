@@ -3,11 +3,11 @@
 
 
 ## Quick Overview
-react_visual_search allows to search data by attribute name.
+`react_visual_search` allows to search data by attribute name.
 Multiple filters can be applied to take broad range of data.
 
 # Features:
-* Support Search both text and list mode.
+* Search support both text and list mode.
 
 
 ## Examples
@@ -62,9 +62,9 @@ render(){
 
 ```
 
-## Support Types :
-* type: "text"
-* type: "list"
+## Supported Types :
+* `text`
+* `list`
 
 ## License
 MIT.
